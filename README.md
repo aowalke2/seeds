@@ -5,7 +5,7 @@ Common Data Structures in C.
 ## Implemented
 
 - [ ] Dynamic Array
-- [ ] Linked List
+- [x] Linked List
 - [ ] Stack
 - [ ] Queue
 - [ ] Deque
