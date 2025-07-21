@@ -6,8 +6,9 @@ Common Data Structures in C.
 
 - [ ] Dynamic Array
 - [x] Linked List
+  - [ ] Make it generic
 - [ ] Stack
-- [ ] Queue
+- [x] Queue
 - [ ] Deque
 - [ ] HashMap
 - [ ] HashSet
